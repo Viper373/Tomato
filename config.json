@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
+		"title": "小暮笙",
 		"description": "Author:SimonAKing,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "小暮笙",
+		"subtitle": "一个致力于Python满足需求的开源者",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "小暮笙",
+		"signature": "Debuging Life",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.viper3.top",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.viper3.top/about.html",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:2483523414@qq.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/Viper373",
 				"icon": "github",
 				"text": "Github"
 			}
